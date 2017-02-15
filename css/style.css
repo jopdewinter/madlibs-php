@@ -1,0 +1,37 @@
+body {
+	background: gray;
+	font-family: calibri;
+}
+
+.card-panel {
+	margin: auto;
+	text-align: center;
+	background-color: white;
+	height: auto;
+	width: 700px;
+	padding: 10px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.header {
+	background-color: red;
+	height: auto;
+	width: 700px;
+	margin: auto;
+	text-align: center;
+	padding: 10px;
+}
+
+.headerbuttons {
+	border: none;
+	background: none;
+}
+
+.headerbuttons:hover {
+	color: white;
+	background-color: #d80e00;
+	transition: 0.3s;
+}
